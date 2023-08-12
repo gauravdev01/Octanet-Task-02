@@ -2,7 +2,7 @@
 A to-do list is a simple organizational tool used to track tasks and manage daily activities. It consists of a list of tasks that need to be completed, often accompanied by checkboxes to mark tasks as done. To create a basic to-do list using HTML and CSS:
 
 HTML Structure:
-Start with an HTML file and create an unordered list <ul> to hold the tasks. Inside the list, add list items <li> for each task. Use checkboxes (<input type="checkbox">) within the list items to mark tasks as completed.
+Start with an HTML file and create an unordered list to hold the tasks. Inside the list, add list items for each task. Use checkboxes (<input type="checkbox">) within the list items to mark tasks as completed.
 
 CSS Styling:
 Apply CSS to style the to-do list. Use CSS properties like margin, padding, border, and background-color to enhance the appearance of the list and checkboxes. You can use CSS classes to target specific elements for styling.
